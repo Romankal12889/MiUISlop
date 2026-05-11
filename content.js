@@ -1,10 +1,10 @@
 const replacements = {
   // Англійська
-  'MIUI': 'MiUISlop',
-  'HyperOS': 'HyperSlop',
-  'Xiaomi': 'SlopMi',
-  'POCO': 'POCOSlop',
-  'Redmi': 'RedmiSlop',
+  'MiUISlop': 'MiUISlop',
+  'HyperSlop': 'HyperSlop',
+  'SlopMi': 'SlopMi',
+  'POCOSlop': 'POCOSlop',
+  'RedmiSlop': 'RedmiSlop',
 
   // Українська вимова
   'Міюай': 'МіюайСлоп',
