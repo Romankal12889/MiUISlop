@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "MIUISlop Replacer",
+  "version": "1.0",
+  "description": "Замінює MIUI та HyperOS на те, чим вони є насправді.",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
